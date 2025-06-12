@@ -13,6 +13,7 @@ function App() {
   return (
     <div className="App">
       <h1>The Unblog 🧠...yeah</h1>
+      <h1>The Unblog 🧠...yeah</h1>
       {posts.map(post => (
         <div key={post.id}>
           <h2>{post.title}</h2>
