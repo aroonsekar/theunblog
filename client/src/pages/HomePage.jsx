@@ -9,7 +9,7 @@ const dummyPosts = [
   },
   {
     id: 2,
-    title: 'Why I started writing',
+    title: 'Why I started writing what',
     content: 'Because life is too short not to document it.',
     slug: 'why-writing',
   },
